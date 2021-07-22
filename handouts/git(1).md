@@ -302,7 +302,7 @@ Page 3
 
 ---
 
-![height:200px](https:git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![height:300px](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
 
 ---
 
@@ -378,7 +378,7 @@ Page 3
 
 ## git Process Flow and Command
 
-![height:500px](https:thepracticaldev.s3.amazonaws.com/i/128hsgntnsu9bww0y8sz.png)
+![height:500px](./img/gitprocess.jpg)
 
 ---
 
@@ -425,7 +425,7 @@ https://github.com/
 ---
 
 ## Useful blog post
-[https://ulgoon.github.io/2019/09/09/01-git-first/](https://ulgoon.github.io/2019/09/09/01-git-first/)
+[https://ulgoon.github.io/2019/09/01-git-first/](https://ulgoon.github.io/2019/09/01-git-first/)
 
 ---
 

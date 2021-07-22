@@ -38,9 +38,6 @@ footer : 네카라쿠배 git,  Wooyoung Choi, 2021
 ---
 
 ## Branch
-
-![](https:wac-cdn.atlassian.com/dam/jcr:389059a7-214c-46a3-bc52-7781b4730301/hero.svg?cdnVersion=1389)
-
 ---
 
 ## Branch
@@ -208,7 +205,7 @@ see the difference between two branches
 
 ## git flow strategy
 
-![height:450px](https:b.kisscc0.com/20180815/saq/kisscc0-github-branching-workflow-diagram-1492474981-svg-5b74286bb0f1a7.6096632915343391797248.png)
+![height:450px](./img/git-flow.png)
 
 ---
 
@@ -217,6 +214,15 @@ see the difference between two branches
 [Link](https:danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 
 ![](https:danielkummer.github.io/git-flow-cheatsheet/img/git-flow-commands.png)
+
+---
+
+## fibonacci 구현 with git flow
+
+v1.0: recursion
+v1.1: recursion with memoization
+
+v2.0: binet's formula
 
 ---
 
