@@ -110,7 +110,6 @@ see the difference between two branches
 - Spiderman.md를 생성하고 다음의 정보를 배역을 맡은 배우별로 브랜치를 생성하여 이를 시각화 하세요.
 - 완결된 브랜치는 master 브랜치로 merge 해야 합니다.
 - 각 commit은 개봉연도 순서대로 존재해야 합니다.
-- `AndrewGarfield` 브랜치는 master의 첫 commit 에서 `TobeyMaguire` 브랜치와 함께 시작해야 합니다.(리부트이므로..)
 - Format
 
 ```text
@@ -219,11 +218,15 @@ see the difference between two branches
 
 ## fibonacci 구현 with git flow
 
-v1.0: recursion
-v1.1: recursion with memoization
+v1.0: recursion(점화식)
+v1.1: recursion with memoization(점화식 + 메모리)
+v2.0: binet's formula(공식)
 
-v2.0: binet's formula
+### 꼭 해야 하는 것
 
+1. 새로운 레포
+2. 동일한 파일에 대한 버전
+3. github issues, projects를 작업 전에 완료하기
 ---
 
 ## Practice(2)
