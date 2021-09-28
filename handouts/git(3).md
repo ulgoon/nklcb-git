@@ -15,7 +15,7 @@ size: 16:9
 footer : 네카라쿠배 git,  Wooyoung Choi, 2021
 -->
 
-## frontend-1st Feedback
+## frontend-2nd Feedback
 
 - 제목만 존재하는 커밋
  -> 짧더라도 커밋단위에 대한 설명을
