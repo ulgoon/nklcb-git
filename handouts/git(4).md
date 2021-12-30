@@ -186,6 +186,70 @@ footer : 네카라쿠배 git,  Wooyoung Choi, 2021
 
 ---
 
+## Templates for issue(simple)
+
+`.github/ISSUE_TEMPLATE.md`
+
+```md
+## Expected Behavior
+
+
+## Actual Behavior
+
+
+## Steps to Reproduce the Problem
+
+  1.
+  1.
+  1.
+
+## Specifications
+
+  - Version:
+  - Platform:
+  - Subsystem:
+```
+
+---
+
+## Templates for pull request(simple)
+
+`.github/PULL_REQUEST_TEMPLATE.md`
+
+```md
+Please ensure your pull request adheres to the following guidelines:
+
+- [ ] Use the following format: `* [owner/repo](link)`
+- [ ] Link additions should be added to the bottom of the relevant category.
+- [ ] New categories or improvements to the existing categorization are welcome.
+- [ ] Search previous suggestions before making a new one, as yours may be a duplicate.
+- [ ] Sort by alphabetical order
+
+<!-- Choose one of these types and delete else -->
+
+fix #
+resolve #
+close #
+
+## Proposed Changes
+
+  -
+  -
+  -
+```
+
+---
+
+## Examples
+
+- https://github.com/ionic-team/ionic-framework/blob/main/.github/ISSUE_TEMPLATE.md
+- https://github.com/Urigo/angular-meteor/blob/master/.github/ISSUE_TEMPLATE.md
+- https://github.com/ionic-team/ionic-framework/blob/main/.github/PULL_REQUEST_TEMPLATE.md
+- https://github.com/Urigo/angular-meteor/blob/master/.github/PULL_REQUEST_TEMPLATE.md
+
+
+---
+
 ## 발표
 
 ---
@@ -211,14 +275,16 @@ footer : 네카라쿠배 git,  Wooyoung Choi, 2021
 
 ## Activity
 
-존재하는 서비스에 대해 기획안을 완성하고, 발표하세요
+인디언포커에 대해 기획안을 완성하고, 발표하세요
 
-- 기획안은 repo에 작업 결과물을 업로드해야 함
-- README.md에 발표자료를 만들어야 함
-- 기획 후 구성한 모든 task는 github projects에 꾸며야 함
-
-1. https://corona-live.com/
-2. https://to-do.live.com/
+- 아래의 인디언 포커 설명 문서를 읽고, 이를 구현 하시오
+- https://en.wikipedia.org/wiki/Blind_man's_bluff_(poker)
+- 덱 구성은 [1,2,3,4,5,6,7,8,9,10] * 2로 하되 모두 소진할 때 까지 운용한다.
+- 컴퓨터는 오로지 받을 수만 있다.
+- PVP일 경우, 베팅을 구현한다.(optional)
+- 플레이어는 20개의 칩으로 시작하며, 칩을 모두 소진시키거나(승) 모두 소진할 경우(패) 게임이 종료된다.
+- 게임 중 언제든지 :q를 입력하면 게임은 강제종료된다.
+- 구현해야 할 일들을 issue에 등록하고 projects로 관리한다.
 
 ---
 
